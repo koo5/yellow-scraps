@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-rustyscript = "0.5.0"
+rustyscript = "0.6.1"

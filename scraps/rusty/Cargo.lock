@@ -2011,9 +2011,9 @@ dependencies = [
 
 [[package]]
 name = "rustyscript"
-version = "0.5.3"
+version = "0.6.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "2df5797345c8246eabcb4ae224a90a30fec1e1460ca1c8bb0ba198b609502cb6"
+checksum = "a34a0a3e45ef06c606ba65c9eddceee8b7238bc86ae60f6c98dde1cfbe9ee223"
 dependencies = [
  "deno_ast",
  "deno_console",
@@ -2021,6 +2021,7 @@ dependencies = [
  "deno_crypto",
  "deno_url",
  "deno_webidl",
+ "paste",
  "serde",
  "thiserror",
  "tokio",
